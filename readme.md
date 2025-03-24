@@ -1,5 +1,6 @@
 # Patrones Responsive Web Design
 
+
 Este repositorio contiene ejemplos de patrones de diseño responsive utilizando CSS Grid y Flexbox. Cada carpeta contiene un ejemplo específico con su respectivo código HTML y CSS.
 
 ## Estructura del Proyecto
